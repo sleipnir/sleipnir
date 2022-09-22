@@ -2,6 +2,7 @@
 
 I'm Adriano Santos! 
 I am a DJ, ex athlete, programmer, father of beautiful children (teens). 
+
 I have contributed to some OSS projects over the years, mainly in the [Eigr](https://eigr.io/) community. 
 
 My main interests are:
