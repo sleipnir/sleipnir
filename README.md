@@ -6,7 +6,7 @@ Senior Software and Platform Engineer
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/sleipnir)
 -------------------------------------
 *   🌍  I'm based in Milk Way, Solar System, Planet Earth, São Paulo, Brazil
-*   ✉️  You can contact me at [solid.sistemas@gmail.com](mailto:solid.sistemas@gmail.com)
+*   ✉️  You can contact me at [solid.sistemas@gmail.com](mailto:solid.sistemas@gmail.com) and [sleipnir@eigr.io](mailto:sleipnir@eigr.io)
 *   🤝  I'm open to collaborating on Actor Model, Distributed Computing, Stateful Serverless, Developer Platform
  
 I am a DJ, ex athlete, programmer, father of beautiful children (teens). 
