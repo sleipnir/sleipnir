@@ -15,6 +15,7 @@ I have contributed to some OSS projects over the years, mainly in the [Eigr](htt
 
 My main interests are:
 
+* My Family
 * Biology
 * Distributed Systems
 * Fantasy/Science Fiction
